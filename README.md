@@ -59,12 +59,9 @@ Click WA logo to Join Support Group 👇
 
 ### Simple Method
 
- 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/kNzso1?referralCode=RIPPERBOT)
-  
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@thinura2003/Bixby-Mowl-QR)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ALPHAOFFICIAL/V5)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/thinura2003/Bixby-Mowl)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ALPHA-OFFICIAL-TEAM/ALPHA-V5)
      </div>
   
 
@@ -74,4 +71,4 @@ Click WA logo to Join Support Group 👇
  
 <div align="center">
 
- [![Run on Repl.it](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)](https://replit.com/@ziyankp/Bixby-mowl)
+ [![Run on Repl.it](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)](https://replit.com/@ALPHAOFFICIAL/V5)
