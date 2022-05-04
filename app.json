@@ -1,7 +1,7 @@
 {
     "name": "🎭🇱🇰 𝙰𝙻𝙿𝙷𝙰 🇱🇰🎭 WhatsApp User Bot v5.0.0",
     "description": "World best Sinhala/English WhatsApp Button Bot Developer Achi Fernando Enjoy Our Bot",
-    "logo": "https://telegra.ph/file/cd6032c65c27e0510ddad.jpg",
+    "logo": "https://telegra.ph/file/f3b0b4e681583334b7330.jpg",
     "keywords": ["Achi Bro lk | PG", "ALPHA"],
     "stack": "container",
     "env": {
@@ -150,8 +150,9 @@
             "value":"https://telegra.ph/file/3a2582be8423628a180c0.gif"
         },
         "REMOVE_BG_API_KEY": {
-            "description": "Here you go to the website remove.bg and sign up and get an API key. Leave the API key in this space. ඔබගෙ photos වල background ඉවත් කිරිමට අවශ්‍ය නම මෙම api කෙතය නෙහි යොදන්න. ",
+            "description": "Here you go to the website remove.bg and sign up and get an API key. Leave the API key in this space. ඔබගෙ photos වල background ඉවත් කිරිමට අවශ්‍ය නම මෙම api කෙතය නෙහි යොදන්න. thiyna code eka use karnna one num ekath wada karnwa ",
             "required": false
+            "value": "h2N1wqk38UrKfU44tZyPPWP3"
         },
         "ALIVE_MESSAGE": {
             "description": "The message you get when you check whether the bot is online or not. This is not necessarily the case. ඔබට alive massage එකට අවශ්‍ය ලෙස මෙහි එය යොදන්න.",
