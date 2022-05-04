@@ -74,12 +74,13 @@ Click WA logo to Join Support Group 👇
   <a href="https://chat.whatsapp.com/EmxfOklzLVIIyDEKPx4IYj" target="blank"><img align="center" src="https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png " /></a>
 </p>
 
-### Simple Method
+### QR CODE
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@ALPHAOFFICIAL/V5)
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ALPHAOFFICIAL/V5)
+### Deploy Page
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ALPHA-OFFICIAL-TEAM/ALPHA-V5)
+</div>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ALPHA-OFFICIAL-TEAM)
-<br>
 <br >
  
 <div align="center">
