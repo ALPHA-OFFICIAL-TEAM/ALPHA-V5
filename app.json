@@ -8,14 +8,6 @@
       "ALPHA_SESSION": {
             "description": "Paste your QR session that you got from https://replit.com/@CTBOT/Alpha-Qr?v=1. ඇල්ෆා qr කේතය යොදන්න.",
             "required": true
-        },
-        "BUTTON_CMD": {
-            "description": "YOU NEED BUTTON COMMANDS TYPE ( btn ) YOU NEED TEXT COMMAND TYPE ( txt ) බටන් කමාන්ඩ් සමහර ෆෝන් වලට වැඩ කරන් නෑ..",
-            "value":"btn"
-        },
-          "MENU_CMD": {
-            "description": "TYPE YOUR MENU COMMAND.ඔබෙ මෙනු එක ගැනිම සදහා අවශ්‍ය නම් විදානයක් සකසන්න.",
-            "value":"alpha"
         },      
         "ALIVE_LOGO": {
             "description": "If you do not want to change Alive Logo put here to your image direct link or, type default. ඔබගෙ alive logo එක සාදහා ඔබෙ logo එකක් යේදිමට අවශ්‍ය නම් මෙහි link එක යොදන්න.",
