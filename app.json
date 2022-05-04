@@ -150,8 +150,8 @@
             "value":"https://telegra.ph/file/3a2582be8423628a180c0.gif"
         },
         "REMOVE_BG_API_KEY": {
-            "description": "Here you go to the website remove.bg and sign up and get an API key. Leave the API key in this space. ඔබගෙ photos වල background ඉවත් කිරිමට අවශ්‍ය නම මෙම api කෙතය නෙහි යොදන්න. thiyna code eka use karnna one num ekath wada karnwa ",
-            "required": false
+            "description": "Here you go to the website remove.bg and sign up and get an API key. Leave the API key in this space. ඔබගෙ photos වල background ඉවත් කිරිමට අවශ්‍ය නම මෙම api කෙතය නෙහි යොදන්න. thiyna code eka use karnna one num ekath wada karnwa",
+            "required": false,
             "value": "h2N1wqk38UrKfU44tZyPPWP3"
         },
         "ALIVE_MESSAGE": {
