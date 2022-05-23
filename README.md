@@ -5,18 +5,18 @@
 <img src= "https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966"/>
 </p>
 
-<h1>🎭🇱🇰 𝙰𝙻𝙿𝙷𝙰 🇱🇰🎭  WhatsApp User Bot v5.0.0</h1>
+<h1>🎭🇱🇰 𝙰𝙻𝙿𝙷𝙰 🇱🇰🎭  SEW QUEEN WHATSAPP BOT v1.0.0</h1>
 </div>
 
 <div align="center">
-  <img src="https://telegra.ph/file/f3b0b4e681583334b7330.jpg" width="300" height="300">
+  <img src="https://storage.googleapis.com/replit/images/1637982179145_b9f98913d5b835ff58d0b0fd6398a861.jpeg" width="300" height="300">
 	<div align="center">
 <img src= "https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966"/>
 </p>
 
 <div align="center">
  <p align="center">
-<a href="#"><img title="Achi Fernando" src="https://img.shields.io/badge/ACHIYA-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="SANDARU NETHSARA" src="https://img.shields.io/badge/ACHIYA-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/RIPPER-SER
@@ -24,7 +24,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/RIPPER-SER">Achiya</a> to make it public
+Project created by <a href="https://github.com/RIPPER-SER">sandaru</a> to make it public
     <br>
        | © |
         Reserved |
@@ -35,24 +35,16 @@ Project created by <a href="https://github.com/RIPPER-SER">Achiya</a> to make it
 
 	</div>
 <p align="center">
-    World best Sinhala/English WhatsApp Button Bot Developer Achi Fernando Enjoy Our Bot
+    World best Sinhala/English WhatsApp Button Bot Developer SANDARU NETHSARA Enjoy Our Bot!
     <br>
-        <a href="https://chat.whatsapp.com/EmxfOklzLVIIyDEKPx4IYj">Whatsapp Support Group 01</a> |
-	<a href="https://chat.whatsapp.com/KpBbjUuoKCE5DclK9lKdr0">Whatsapp Support Group 02</a> |
-	<a href="https://t.me/+TaQGxVd7ZM43NDk1">Telegarm Support Group</a> |
-	<a href="https://achibrolk.wordpress.com/alpha-bot-service">Official Web Site </a> |
-        <a href="https://www.youtube.com/c/ABLKPGAchiBrolk">Youtube Channel</a> |
-	<a href="https://chat.whatsapp.com/FTtlr84ndUWIkR7PeHoqXJ">Whatsapp Bot Group</a> |
-	<a href="https://chat.whatsapp.com/KQRCEydZ4QwJ7JpKypx5gg">Whatsapp Tech Group</a> |
-	<a href="https://chat.whatsapp.com/BiRfTmouLQ2J7MaLdczOY5">Whatsapp Ehi Group</a> |
-	<a href="https://chat.whatsapp.com/GPUvBfhhz7OLZhckbGi8mj">Whatsapp knowledge Group</a> |
-	<a href="https://chat.whatsapp.com/GSijEqwPZBS4a3VzzlvKLM">Whatsapp Market Group</a>
+        <a href="https://chat.whatsapp.com/CzkrgfOSRc87u8DNnG4ye1">Whatsapp Support Group 01</a> |
+	
     <br>
 </p>
 	
 	
   #### TOTAL REPO VIEWS
-![Visitor Count](https://profile-counter.glitch.me/ALPHA-OFFICIAL-TEAM/count.svg)
+![Visitor Count](https://chat.whatsapp.com/CzkrgfOSRc87u8DNnG4ye1)
 </p>
 <h4 align="center">Support Video For Deploy Bot 👇:</h4>
 <p align="center">
@@ -73,7 +65,7 @@ Project created by <a href="https://github.com/RIPPER-SER">Achiya</a> to make it
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/EmxfOklzLVIIyDEKPx4IYj" target="blank"><img align="center" src="https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png " /></a>
+  <a href="https://chat.whatsapp.com/CzkrgfOSRc87u8DNnG4ye1" target="blank"><img align="center" src="https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png " /></a>
 </p>
 
 ### QR CODE
